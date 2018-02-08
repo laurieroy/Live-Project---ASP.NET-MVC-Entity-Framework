@@ -1,5 +1,6 @@
 # Live-Project: Podcast & blog projects
 ## Skills: ASP.NET MVC, Entity-framework data model in VS2017 with TFS, Scrum
+## Podcast finished product live at https://learncodinganywhere.com/Podcasts
 
 Live project was an opportunity to use scrum methodology to work on real projects. During the two week-long sprints, I worked on a podcast project and a blog project.
 
